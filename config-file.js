@@ -77,7 +77,7 @@ const CONFIG = {
 
 // 🔧 Funções de Configuração
 const ConfigHelper = {
-  GAS_URL: "https://script.google.com/macros/s/SEU_ID_AQUI/exec"
+  GAS_URL: "https://script.google.com/macros/s/AKfycbwsT_Ayrws1Yy35i6btXFBCWGL8W-D3M9oQkqkAn1P6Pvy9JdrrFJKdj5N1fl6tP-KoyQ/exec"
     };
 {
   // Aplicar configurações no formulário
